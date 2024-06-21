@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![alt text](https://github.com/GlitchDev1/GlitchDev1/blob/main/name.svg?raw=true)
+![alt text](https://github.com/GlitchDev1/GlitchDev1/blob/main/name.gif?raw=true)
 <!--
 **GlitchDev1/GlitchDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
