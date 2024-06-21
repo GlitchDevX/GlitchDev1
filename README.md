@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://sapphire-games.com/img/glitchdev.svg)
+
 <!--
 **GlitchDev1/GlitchDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
